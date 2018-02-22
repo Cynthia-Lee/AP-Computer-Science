@@ -1,2 +1,4 @@
 # AP-Computer-Science
-Java files from my High School Junior Year, 2015-2016
+Java projects from my High School Junior Year, 2015-2016
+
+Created with Codeboard.io
